@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentPostProcessor=cn.liuyuwei1989.filetransfertool.front.port.PortDetermineEnvironmentPostProcessor

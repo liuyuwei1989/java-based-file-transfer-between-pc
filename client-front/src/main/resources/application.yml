@@ -1,0 +1,14 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+
+spring:
+  jmx:
+    enabled: false
+  application:
+    name: file-transfer-group
+javafx:
+  title: FileTransferTool
+  stage:
+    resizable: false
